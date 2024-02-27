@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Mearn**
+- 💬 Ask me about **MERN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
