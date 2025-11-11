@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;MERN+Stack+Developer;React+Developer;Always+Learning+New+Tech&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;MERN+Stack+Developer;Always+Learning+New+Tech&center=true&width=500&height=50">
 </p>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
