@@ -1,9 +1,13 @@
-
 <h1 align="center">Hi 👋, I'm Anupam Ghosh</h1>
 <h3 align="center">A passionate Software Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;MERN+Stack+Developer;React+Developer;Always+Learning+New+Tech&center=true&width=500&height=50">
+</p>
+
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 🌱 I’m currently learning **React**
+- 🌱 I'm currently learning **React**
 
 - 💬 Ask me about **MERN**
 
@@ -12,7 +16,7 @@
 <a href="https://x.com/AnupamGhosh_04"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/anupamghosh_04" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anupam-ghosh-31643a249/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anupam-ghosh-31643a249" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ghosh_anupam_/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ghosh_anupam_?igsh=mtnzbhgybnawa2fhba==" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/anupam_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/anupam_04" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/anupam_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/anupam_04" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
